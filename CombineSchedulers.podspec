@@ -16,6 +16,4 @@ Pod::Spec.new do |s|
   s.swift_versions = "5.7"
 
   s.source_files = "Sources/CombineSchedulers/**/*.swift"
-
-  s.dependency "XCTestDynamicOverlay", "0.1.1"
 end
